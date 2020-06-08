@@ -11,7 +11,7 @@ git clone https://github.com/Ben-893/Random-Numbers-App
 
 * The user will be greeted with a prompt window asking for a number. Enter a number and press 'ok'. 
 
-* A  second prompt will appear and ask the user to type in a larger number than the precious one. Do that, and press 'ok'
+* A  second prompt will appear and ask the user to type in a larger number than the previous one. Do that, and press 'ok'
 
 * The app will pick a random number between the 2 inputs, and display that number on the webpage.
 
